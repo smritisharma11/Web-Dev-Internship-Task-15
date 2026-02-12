@@ -1,0 +1,12 @@
+body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
+nav { margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px; }
+nav a { margin-right: 15px; text-decoration: none; color: blue; font-weight: bold; }
+#app { padding: 20px; border: 1px solid #eee; border-radius: 8px; }
+
+#loading-indicator {
+    color: #555;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.hidden { display: none; }
